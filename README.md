@@ -18,7 +18,7 @@
 
 </br>
 
-## <img  height="40px" align="center" src="https://emojis.slackmojis.com/emojis/images/1571497805/6730/data.png?1571497805"> Conteúdo Programático
+## <img  height="40px" align="center" src="https://emojis.slackmojis.com/emojis/images/1589877402/9116/excuseme.gif?1589877402"> Conteúdo Programático
 
 - [ ] Entender os conceitos de e ntidade, atributo e relacionamento.
 - [ ] Saber m apea r e projet ar um banco de dados.
@@ -42,6 +42,10 @@
 
 - [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.io/)
+
+<h3><p align="center">
+<img  height="70px" src="https://emojis.slackmojis.com/emojis/images/1571497805/6730/data.png?1571497805">Base</h3> 
+</p>
 
 <!--
 ## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif?1464135097"> Contribuidores
