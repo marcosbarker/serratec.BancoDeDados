@@ -2,7 +2,7 @@
 <img height="80px" src="assets/logoSerratec.png" alt="logo serratec">
 </p>
 
-<h1 align="center">Bando de Dados</h1>
+<h1 align="center">Banco de Dados</h1>
 <!--<h2 align="center">Grupo 01 - Turma 04</h2>-->
 <h3 align="center">Professor Alexandre de Oliveira Paixão</h3>
 
