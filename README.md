@@ -18,7 +18,7 @@
 
 </br>
 
-## <img  height="40px" align="center" src="https://slackmojis.com/emojis/4418-google_docs/download"> Conteúdo Programático
+## <img  height="40px" align="center" src="https://emojis.slackmojis.com/emojis/images/1571497805/6730/data.png?1571497805"> Conteúdo Programático
 
 - [ ] Entender os conceitos de e ntidade, atributo e relacionamento.
 - [ ] Saber m apea r e projet ar um banco de dados.
