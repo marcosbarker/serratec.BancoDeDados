@@ -1,6 +1,13 @@
 <p align="center">
 <img height="80px" src="assets/logoSerratec.png" alt="logo serratec">
+
 </p>
+<details>
+  <summary></summary>
+    <h3><p align="center">
+    <img  height="70px" src="https://emojis.slackmojis.com/emojis/images/1571497805/6730/data.png?1571497805">Base</h3> 
+  </p>
+</details>
 
 <h1 align="center">Banco de Dados</h1>
 <!--<h2 align="center">Grupo 01 - Turma 04</h2>-->
@@ -18,7 +25,7 @@
 
 </br>
 
-## <img  height="40px" align="center" src="https://emojis.slackmojis.com/emojis/images/1589877402/9116/excuseme.gif?1589877402"> Conteúdo Programático
+## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1589877402/9116/excuseme.gif?1589877402"> Conteúdo Programático
 
 - [ ] Entender os conceitos de e ntidade, atributo e relacionamento.
 - [ ] Saber m apea r e projet ar um banco de dados.
@@ -38,16 +45,17 @@
 
 <br/>
 
-## <img  height="40px" align="center" src="https://slackmojis.com/emojis/4418-google_docs/download"> Tecnologia Utilizada
+## <img  height="50px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologia Utilizada
 
 - [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.io/)
-
+  
+<!--
 <h3><p align="center">
 <img  height="70px" src="https://emojis.slackmojis.com/emojis/images/1571497805/6730/data.png?1571497805">Base</h3> 
 </p>
 
-<!--
+
 ## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif?1464135097"> Contribuidores
 
 <table>
