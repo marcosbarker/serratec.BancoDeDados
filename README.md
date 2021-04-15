@@ -25,16 +25,16 @@
 
 ## <img  height="50px" align="center" src="assets/excuseme.gif"> Conteúdo Programático
 
-- [ ] Entender os conceitos de e ntidade, atributo e relacionamento.
-- [ ] Saber m apea r e projet ar um banco de dados.
-- [ ] Cria r um banco de dados (DDL Data Definition Language
-- [ ] Manter a i ntegridade referencial do banco de dados (chave
-- [ ] Mani pular banco de dados (DML Data Manipulation Language
-- [ ] Consulta r banco de dados (DQL Data Query Language
-- [ ] Consulta r múltiplas tabelas de um banco de dados (junção de tabelas).
-- [ ] Utilizar f unções de agregação (soma, máximo, mínimo, média, etc
-- [ ] Fazer a grupamento.
-- [ ] Cria r índices para pesquisa no banco de dados.
+- [ ] Entender os conceitos de entidade, atributo e relacionamento.
+- [ ] Saber mapear e projetar um banco de dados.
+- [ ] Criar um banco de dados (DDL Data Definition Language.
+- [ ] Manter a integridade referencial do banco de dados (chave).
+- [ ] Manipular banco de dados (DML Data Manipulation Language).
+- [ ] Consultar banco de dados (DQL Data Query Language).
+- [ ] Consultar múltiplas tabelas de um banco de dados (junção de tabelas).
+- [ ] Utilizar funções de agregação (soma, máximo, mínimo, média, etc).
+- [ ] Fazer agrupamento.
+- [ ] Criar índices para pesquisa no banco de dados.
 - [ ] Entender o conceito de n ormalização de banco de dados.
 
 *Totalizando 42h*
