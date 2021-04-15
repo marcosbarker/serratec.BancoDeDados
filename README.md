@@ -5,7 +5,7 @@
 <details>
   <summary></summary>
     <h3><p align="center">
-    <img  height="70px" src="https://emojis.slackmojis.com/emojis/images/1571497805/6730/data.png?1571497805">Base</h3> 
+    <img  height="70px" src="assets/data.png">Base</h3> 
   </p>
 </details>
 
@@ -23,7 +23,7 @@
 - [Volnei Neves](https://github.com/Volneineves)
   -->
 
-## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1589877402/9116/excuseme.gif?1589877402"> Conteúdo Programático
+## <img  height="50px" align="center" src="assets/excuseme.gif"> Conteúdo Programático
 
 - [ ] Entender os conceitos de e ntidade, atributo e relacionamento.
 - [ ] Saber m apea r e projet ar um banco de dados.
@@ -37,11 +37,9 @@
 - [ ] Cria r índices para pesquisa no banco de dados.
 - [ ] Entender o conceito de n ormalização de banco de dados.
 
-<br/>
-
 *Totalizando 42h*
 
-## <img  height="50px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologia Utilizada
+## <img  height="50px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
 - [PostgreSQL](https://www.postgresql.org/)
 - [DBeaver](https://dbeaver.io/)
@@ -52,7 +50,13 @@
 </p>
 -->
 
-## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif?1464135097"> Contribuidores
+<!-- 
+## <img  height="50px" align="center" src="assets/avocadoBunitu.png"> Contribuidores
+-->
+
+<p align="center">
+  <img align="center" height="400px" src="assets/osZeressemosProTeam.png"> 
+</p>
 
 <table>
   <tr>
@@ -105,3 +109,13 @@
       </a><br>
     </td>
 </table>
+
+<!--
+</p>
+<details>
+  <summary></summary>
+    <p align="center">
+    <img  height="400px" src="assets/osZeressemosProTeam.png"> 
+  </p>
+</details>
+-->
