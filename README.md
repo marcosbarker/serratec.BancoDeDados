@@ -23,8 +23,6 @@
 - [Volnei Neves](https://github.com/Volneineves)
   -->
 
-</br>
-
 ## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1589877402/9116/excuseme.gif?1589877402"> Conteúdo Programático
 
 - [ ] Entender os conceitos de e ntidade, atributo e relacionamento.
@@ -43,8 +41,6 @@
 
 *Totalizando 42h*
 
-<br/>
-
 ## <img  height="50px" align="center" src="https://slackmojis.com/emojis/12254-stockrocket/download"> Tecnologia Utilizada
 
 - [PostgreSQL](https://www.postgresql.org/)
@@ -54,7 +50,7 @@
 <h3><p align="center">
 <img  height="70px" src="https://emojis.slackmojis.com/emojis/images/1571497805/6730/data.png?1571497805">Base</h3> 
 </p>
-
+-->
 
 ## <img  height="50px" align="center" src="https://emojis.slackmojis.com/emojis/images/1464135097/464/fb-like.gif?1464135097"> Contribuidores
 
@@ -109,4 +105,3 @@
       </a><br>
     </td>
 </table>
--->
