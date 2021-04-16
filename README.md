@@ -4,8 +4,8 @@
 </p>
 <details>
   <summary></summary>
-    <h3><p align="center">
-    <img  height="70px" src="assets/data.png">Base</h3> 
+    <h2><p align="center">
+    <img  height="70px" src="assets/data.png">Base</h2> 
   </p>
 </details>
 
@@ -25,24 +25,24 @@
 
 ## <img  height="50px" align="center" src="assets/excuseme.gif"> Conteúdo Programático
 
-- [ ] Entender os conceitos de entidade, atributo e relacionamento.
-- [ ] Saber mapear e projetar um banco de dados.
-- [ ] Criar um banco de dados (DDL Data Definition Language.
-- [ ] Manter a integridade referencial do banco de dados (chave).
-- [ ] Manipular banco de dados (DML Data Manipulation Language).
-- [ ] Consultar banco de dados (DQL Data Query Language).
-- [ ] Consultar múltiplas tabelas de um banco de dados (junção de tabelas).
+- [x] Entender os conceitos de entidade, atributo e relacionamento.
+- [x] Saber mapear e projetar um banco de dados.
+- [x] Criar um banco de dados (DDL Data Definition Language.
+- [x] Manter a integridade referencial do banco de dados (chave).
+- [x] Manipular banco de dados (DML Data Manipulation Language).
+- [x] Consultar banco de dados (DQL Data Query Language).
+- [x] Consultar múltiplas tabelas de um banco de dados (junção de tabelas).
 - [ ] Utilizar funções de agregação (soma, máximo, mínimo, média, etc).
 - [ ] Fazer agrupamento.
 - [ ] Criar índices para pesquisa no banco de dados.
-- [ ] Entender o conceito de n ormalização de banco de dados.
+- [ ] Entender o conceito de normalização de banco de dados.
 
 *Totalizando 42h*
 
 ## <img  height="50px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
-- [PostgreSQL](https://www.postgresql.org/)
-- [DBeaver](https://dbeaver.io/)
+- [<b>PostgreSQL</b>](https://www.postgresql.org/)    [(<i>Documentação</i>)](http://pgdocptbr.sourceforge.net/pg80/index.html)
+- [**DBeaver**](https://dbeaver.io/)    [(*Documentação*)](https://dbeaver.com/docs/wiki/)
   
 <!--
 <h3><p align="center">
