@@ -23,7 +23,7 @@
 - [Volnei Neves](https://github.com/Volneineves)
   -->
 
-## <img  height="50px" align="center" src="assets/excuseme.gif"> Conteúdo Programático
+## <img  height="55px" align="center" src="assets/colorBlock.gif"> Conteúdo Programático
 
 - [x] Entender os conceitos de entidade, atributo e relacionamento.
 - [x] Saber mapear e projetar um banco de dados.
