@@ -41,7 +41,7 @@
 
 ## <img  height="50px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 
-- [<b>PostgreSQL</b>](https://www.postgresql.org/)    [(<i>Documentação</i>)](http://pgdocptbr.sourceforge.net/pg80/index.html)
+- [**PostgreSQL**](https://www.postgresql.org/)    [(*Documentação*)](http://pgdocptbr.sourceforge.net/pg80/index.html)
 - [**DBeaver**](https://dbeaver.io/)    [(*Documentação*)](https://dbeaver.com/docs/wiki/)
   
 <!--
