@@ -1,0 +1,6 @@
+O postgresql possui 13 diferentes grupos de tipos de dados. Nesse trabalho é solicitado que pesquisem a respeito
+desses tipos e apresentem, em aula, as principais características dos tipos constantes em 2 desses tipos.
+
+Fica a critério de cada grupo a escolha do tipo de dados sobre o qual falará.
+
+Ex: O Grupo X escolheu os Tipos Numéricos e Monetários. Dentro disso, deverá apresentar as características dos tipos que fazem parte desses 2 grupos, contendo, por ex., o nome do tipo de dado , pra que ou quando deve ser usado e a quantidade de caracteres que permite armazenar.

@@ -1,0 +1,2 @@
+O grupo deverá preparar um slide para apresentação em plenário sobre o 
+tema Escalabilidade no Contexto de SGBDs.
