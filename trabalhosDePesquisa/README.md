@@ -10,11 +10,13 @@
 
 ## <img  height="40px" align="center" src="../assets/coin.gif"> Conteúdo
 
-1. [Características do SGBD Oracle](caracteristicasSGBDOracle.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[(*Enunciado*)](enunciados/caracteristicasSGBDOracle.txt)
-2. [Escalabilidade de SGBDs](escalabilidadeDeSGBDs.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[(*Enunciado*)](enunciados/escalabilidadeDeSGBDs.txt)
-3. [Diagrama Mini Mundo](diagramaMiniMundo.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[(*Enunciado*)](enunciados/diagramaMiniMundo.txt)
-4. [Modelo Relacional](modeloRelacional.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[(*Enunciado*)]()    
-5. [Tipos de Dados no PortgreSQL](slides/tiposDeDadosNoPostgreSQL.pptx)&nbsp;&nbsp;&nbsp;&nbsp;[(*Enunciado*)](enunciados/tiposDeDadosNoPostgreSQL.txt)
+1. [Características do SGBD Oracle](caracteristicasSGBDOracle.pdf)
+2. [Escalabilidade de SGBDs](escalabilidadeDeSGBDs.pdf)
+3. [Diagrama Mini Mundo](diagramaMiniMundo.pdf)
+4. [Modelo Relacional](modeloRelacional.pdf)  
+5. [Tipos de Dados no PortgreSQL](slides/tiposDeDadosNoPostgreSQL.pptx)
+
+* [***Enunciados***](enunciados/enunciados.md)
 
 ## <img  height="45px" align="center" src="../assets/stockrocketgif.gif"> Tecnologia Utilizada
 
